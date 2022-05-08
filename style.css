@@ -6,8 +6,7 @@ canvas {
   display: block;
 }
 .box1 {
-  
-
+ 
   width: 50%;
   border: 1px ridge white;
   float: right;
@@ -16,9 +15,13 @@ canvas {
   overflow:visible;
   background:white;
   border: 1px ridge red;
-    margin-top:-230px;
+  margin-top:-230px;
+  font-size: 12px;
 }
 
-.box1 {
-  font-size: 12px;
+h3 {
+   text-align:center;
+  font-family: Helvetica; 
+   
+
 }
