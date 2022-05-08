@@ -1,13 +1,10 @@
 html, body {
   margin: 0;
   padding: 0;
-    background-color: rgb(126,126,126);
+  background-color: rgb(126,126,126);
 }
-canvas {
-  display: block;
-}
+
 .box1 {
- 
   width: 50%;
   border: 1px ridge white;
   float: right;
@@ -23,6 +20,4 @@ canvas {
 h3 {
    text-align:center;
   font-family: Helvetica; 
-   
-
-}
+  }
