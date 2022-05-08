@@ -28,3 +28,9 @@ h3 {
   font-family: Helvetica;
      font-size: 13px;
 }
+
+.sketch.js {
+    float: center;
+    padding: 15px;
+}
+
