@@ -5,7 +5,7 @@ html, body {
 canvas {
   display: block;
 }
-.box {
+.box1 {
   
 
   width: 50%;
@@ -19,6 +19,6 @@ canvas {
     margin-top:-230px;
 }
 
-.box {
+.box1 {
   font-size: 12px;
 }
