@@ -5,3 +5,20 @@ html, body {
 canvas {
   display: block;
 }
+.box {
+  
+
+  width: 50%;
+  border: 1px ridge white;
+  float: right;
+  margin:0px;
+  padding: 15px;
+  overflow:visible;
+  background:white;
+  border: 1px ridge red;
+    margin-top:-230px;
+}
+
+.box {
+  font-size: 12px;
+}
